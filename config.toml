@@ -1,0 +1,4 @@
+baseURL = 'https://raulbrito.com'
+languageCode = 'en-us'
+title = 'Raul Brito Personal Blog'
+theme = 'devise'
