@@ -5,6 +5,7 @@
     <link>https://raulbrito.com/categories/</link>
     <description>Recent content in Categories on Raul Brito Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://raulbrito.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2022, Raul Brito</copyright><atom:link href="https://raulbrito.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
